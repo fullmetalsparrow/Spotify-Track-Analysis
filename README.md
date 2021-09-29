@@ -18,3 +18,7 @@ This project was made using Python 3.7 for Windows 10 devices. This project inte
 1. JSON files (keys, metadata, spectrograms)
 2. PNG files (spectrograms)
 3. MP3 files (playlists)
+
+
+### Usage
+python -m main.py
